@@ -17,5 +17,9 @@ namespace testRepo1
         {
             var text = "hello1";
         }
+        private void test2()
+        {
+            var text = "hello2";
+        }
     }
 }
